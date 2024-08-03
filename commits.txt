@@ -1,71 +1,73 @@
 GitHub Repo: https://github.com/nareshwar/uhull-module-2
 
 
-Commit Hash         Author                              Date and Time (UTC)                 Message
-bf9e9989d           Nareshwar Raju Vaneshwar            2024-08-03T13:46:04+01:00           Cleaned up code and organized the libraries
-5f352edaa           Nareshwar Raju Vaneshwar            2024-08-03T12:07:45+01:00           Updated definitions on all functions used.
-824e935b0           Henny Purwadi                       2024-07-31T15:20:57+07:00           Update Commit History
-d5e4823b1           Henny Purwadi                       2024-07-31T15:20:37+07:00           Delete assignment_combined/Proof_of_Collaboraation.pdf
-757e96a5d           Henny Purwadi                       2024-07-31T15:20:24+07:00           Delete assignment_combined/Proof_of_Collaboration.pdf
-2e4d5172a           Henny Purwadi                       2024-07-31T15:19:26+07:00           Update Prrof of Collaboration History
-d15da52b6           Henny Purwadi                       2024-07-31T15:09:44+07:00           Update Grad Cam in the report
-878804de4           Henny Purwadi                       2024-07-31T15:05:10+07:00           update Grad Cam
-0f071ed3b           Henny Purwadi                       2024-07-31T13:56:41+07:00           Added note for Deep Dream and Guided Back Propagation into report
-852494c6b           Nareshwar Raju Vaneshwar            2024-07-30T16:21:34+01:00           Added DeepDream and Guided Backpropagation visuals
-dfcfd2d77           Nareshwar Raju Vaneshwar            2024-07-30T13:52:52+01:00           Project report update
-c64a97027           Henny Purwadi                       2024-07-30T18:39:52+07:00           Fix grammar and clean up
-a2cdb785d           Henny Purwadi                       2024-07-30T14:54:06+07:00           Update Project Report
-e2f76e24b           Henny Purwadi                       2024-07-30T14:47:09+07:00           Delete assignment_combined/project_report.docx
-3680b0f1e           Henny Purwadi                       2024-07-30T14:46:47+07:00           Clean Up, Update Project Report
-d2c045eab           Henny Purwadi                       2024-07-29T19:25:56+07:00           Proof of Collaboration
-31d9c31ef           Henny Purwadi                       2024-07-29T19:25:37+07:00           Delete assignment_combined/Commits · nareshwar_uhull-module-2.pdf
-e3256d84e           Henny Purwadi                       2024-07-29T19:21:53+07:00           Proof of Collaboration - Commit History
-e0bdad7fe           Henny Purwadi                       2024-07-29T19:13:47+07:00           Add Saliency Map and Gradcam Vis into Project report
-450a61bb8           Henny Purwadi                       2024-07-29T18:31:28+07:00           Added Grad Cam Visualization
-a200b0e66           Nareshwar Raju Vaneshwar            2024-07-29T01:01:31+01:00           grad-cam with errors
-8a1b8aea4           Henny Purwadi                       2024-07-28T21:46:15+07:00           Added Saliency map
-1f06e2824           Nareshwar Raju Vaneshwar            2024-07-27T22:47:06+01:00           Added final project report draft
-d683c9b5f           Nareshwar Raju Vaneshwar            2024-07-27T22:30:38+01:00           Added ROC Curve on task1
-7acaab8e3           Nareshwar Raju Vaneshwar            2024-07-27T13:45:42+01:00           New notebook with combined work
-d42daa643           Henny Purwadi                       2024-07-22T15:32:39+07:00           Added note for visualization in Project report
-56b381c24           Nareshwar Raju Vaneshwar            2024-07-21T22:32:58+01:00           Added all conv2d filter visuals
-710d04b3e           Nareshwar Raju Vaneshwar            2024-07-20T16:48:50+01:00           Added topics, and code cleanup
-82b25703d           Nareshwar Raju Vaneshwar            2024-07-20T00:20:54+01:00           Added feature maps visualization
-b2c522941           Nareshwar Raju Vaneshwar            2024-07-19T23:10:59+01:00           dataset2 upload
-5e839a180           Nareshwar Raju Vaneshwar            2024-07-19T23:10:24+01:00           dataset2 upload
-84e659ad7           Nareshwar Raju Vaneshwar            2024-07-19T23:09:51+01:00           dataset2 upload
-c5e1d766a           Henny Purwadi                       2024-07-14T22:12:48+07:00           Add Classification Report, Confusion Matrix
-b5db1809f           Henny Purwadi                       2024-07-13T12:12:59+07:00           Adding graphs for Task2 Project Report
-e24136d1d           Henny Purwadi                       2024-07-13T12:12:01+07:00           Delete assignment_2/771948_Project_Report _Task2.docx
-fdb010172           Nareshwar Raju Vaneshwar            2024-07-08T22:48:33+01:00           Added graph references
-43d8acf9f           Henny Purwadi                       2024-07-07T20:59:14+07:00           Add files via upload
-fb27ce049           Henny Purwadi                       2024-07-01T18:48:02+07:00           Project Report_Task 2
-5bbf96019           Nareshwar Raju Vaneshwar            2024-06-29T20:50:16+01:00           Merge branch 'feature/assignment-1-naresh'
-2fb4a51c9           Nareshwar Raju Vaneshwar            2024-06-29T20:49:10+01:00           removed unnecessary files
-c2e00e47f           Henny Purwadi                       2024-06-30T02:27:54+07:00           Delete assignment2_notebook.ipynb
-2576a7847           Nareshwar Raju Vaneshwar            2024-06-29T20:21:46+01:00           Merge pull request #3 from nareshwar/feature/assignment-1-naresh
-08218d731           Nareshwar Raju Vaneshwar            2024-06-29T20:20:49+01:00           Merge branch 'main' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
-133f3530b           Nareshwar Raju Vaneshwar            2024-06-29T20:20:10+01:00           Added graphs to assignment 1 doc
-5e673b34b           Henny Purwadi                       2024-06-30T02:19:56+07:00           Add files via upload
-207f13934           Nareshwar Raju Vaneshwar            2024-06-29T19:30:23+01:00           Reverting the old files
-5e177d6a0           Nareshwar Raju Vaneshwar            2024-06-29T19:29:39+01:00           Merge branch 'feature/assignment-1-naresh' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
-bb2c745cd           Henny Purwadi                       2024-06-29T20:14:24+07:00           Add files via upload
-e7a7ff418           Henny Purwadi                       2024-06-29T20:14:11+07:00           Delete assignment_2 directory
-e17607962           Henny Purwadi                       2024-06-29T20:12:31+07:00           Add files via upload
-c0b723ec6           Nareshwar Raju Vaneshwar            2024-06-29T14:01:38+01:00           Create assignment2_notebook.ipynb
-f523722a2           Nareshwar Raju Vaneshwar            2024-06-29T13:36:18+01:00           Initial files on assignment 2
-eb587506a           Nareshwar Raju Vaneshwar            2024-06-29T13:13:19+01:00           Delete assignment_1/assignment_notebook.ipynb
-f287ed424           Nareshwar Raju Vaneshwar            2024-06-29T13:12:51+01:00           Merge pull request #2 from nareshwar/main
-8e5fd7af4           Nareshwar Raju Vaneshwar            2024-06-29T13:12:18+01:00           removed the old one
-520879761           Nareshwar Raju Vaneshwar            2024-06-29T13:10:42+01:00           Merge pull request #1 from nareshwar/feature/assignment-1-naresh
-680617993           Nareshwar Raju Vaneshwar            2024-06-29T13:10:03+01:00           Merge branch 'main' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
-c5b078282           Nareshwar Raju Vaneshwar            2024-06-29T13:04:50+01:00           Added SVM, cleaned code
-81a8a8dae           Nareshwar Raju Vaneshwar            2024-06-27T08:59:50+01:00           Added visualizations
-b1eda944b           Henny Purwadi                       2024-06-26T17:25:03+07:00           Add files via upload
-9b5d41c8c           Henny Purwadi                       2024-06-26T16:56:43+07:00           Add files via upload
-f4507ee1e           Nareshwar Raju Vaneshwar            2024-06-23T23:52:45+01:00           Hyperparameter tuning
-e968a5283           Nareshwar Raju Vaneshwar            2024-06-23T15:14:52+01:00           renaming of the notebook
-a69ac3eeb           Nareshwar Raju Vaneshwar            2024-06-23T15:14:00+01:00           notebook cleanup
-228bef9e4           Nareshwar Raju Vaneshwar            2024-06-23T14:49:00+01:00           Choosing the classifier with the highest accuracy
-3e95d788c           Nareshwar Raju Vaneshwar            2024-06-02T11:12:39+01:00           Update README.md
-3f3c89466           Nareshwar Raju Vaneshwar            2024-06-02T11:09:22+01:00           Initial commit
+CommitHash  Author                     Date and Time (UTC)  Message
+**********  ******                     *******************  ********
+558625211   Nareshwar Raju Vaneshwar   03/08/2024 23:30     Clean up the document and added the commit history as txt
+bf9e9989d   Nareshwar Raju Vaneshwar   03/08/2024 13:46     Cleaned up code and organized the libraries
+5f352edaa   Nareshwar Raju Vaneshwar   03/08/2024 12:07     Updated definitions on all functions used.
+824e935b0   Henny Purwadi              31/07/2024 15:20     Update Commit History
+d5e4823b1   Henny Purwadi              31/07/2024 15:20     Delete assignment_combined/Proof_of_Collaboraation.pdf
+757e96a5d   Henny Purwadi              31/07/2024 15:20     Delete assignment_combined/Proof_of_Collaboration.pdf
+2e4d5172a   Henny Purwadi              31/07/2024 15:19     Update Prrof of Collaboration History
+d15da52b6   Henny Purwadi              31/07/2024 15:09     Update Grad Cam in the report
+878804de4   Henny Purwadi              31/07/2024 15:05     update Grad Cam
+0f071ed3b   Henny Purwadi              31/07/2024 13:56     Added note for Deep Dream and Guided Back Propagation into report
+852494c6b   Nareshwar Raju Vaneshwar   30/07/2024 16:21     Added DeepDream and Guided Backpropagation visuals
+dfcfd2d77   Nareshwar Raju Vaneshwar   30/07/2024 13:52     Project report update
+c64a97027   Henny Purwadi              30/07/2024 18:39     Fix grammar and clean up
+a2cdb785d   Henny Purwadi              30/07/2024 14:54     Update Project Report
+e2f76e24b   Henny Purwadi              30/07/2024 14:47     Delete assignment_combined/project_report.docx
+3680b0f1e   Henny Purwadi              30/07/2024 14:46     Clean Up, Update Project Report
+d2c045eab   Henny Purwadi              29/07/2024 19:25     Proof of Collaboration
+31d9c31ef   Henny Purwadi              29/07/2024 19:25     Delete assignment_combined/Commits · nareshwar_uhull-module-2.pdf
+e3256d84e   Henny Purwadi              29/07/2024 19:21     Proof of Collaboration - Commit History
+e0bdad7fe   Henny Purwadi              29/07/2024 19:13     Add Saliency Map and Gradcam Vis into Project report
+450a61bb8   Henny Purwadi              29/07/2024 18:31     Added Grad Cam Visualization
+a200b0e66   Nareshwar Raju Vaneshwar   29/07/2024 01:01     grad-cam with errors
+8a1b8aea4   Henny Purwadi              28/07/2024 21:46     Added Saliency map
+1f06e2824   Nareshwar Raju Vaneshwar   27/07/2024 22:47     Added final project report draft
+d683c9b5f   Nareshwar Raju Vaneshwar   27/07/2024 22:30     Added ROC Curve on task1
+7acaab8e3   Nareshwar Raju Vaneshwar   27/07/2024 13:45     New notebook with combined work
+d42daa643   Henny Purwadi              22/07/2024 15:32     Added note for visualization in Project report
+56b381c24   Nareshwar Raju Vaneshwar   21/07/2024 22:32     Added all conv2d filter visuals
+710d04b3e   Nareshwar Raju Vaneshwar   20/07/2024 16:48     Added topics, and code cleanup
+82b25703d   Nareshwar Raju Vaneshwar   20/07/2024 00:20     Added feature maps visualization
+b2c522941   Nareshwar Raju Vaneshwar   19/07/2024 23:10     dataset2 upload
+5e839a180   Nareshwar Raju Vaneshwar   19/07/2024 23:10     dataset2 upload
+84e659ad7   Nareshwar Raju Vaneshwar   19/07/2024 23:09     dataset2 upload
+c5e1d766a   Henny Purwadi              14/07/2024 22:12     Add Classification Report, Confusion Matrix
+b5db1809f   Henny Purwadi              13/07/2024 12:12     Adding graphs for Task2 Project Report
+e24136d1d   Henny Purwadi              13/07/2024 12:12     Delete assignment_2/771948_Project_Report _Task2.docx
+fdb010172   Nareshwar Raju Vaneshwar   08/07/2024 22:48     Added graph references
+43d8acf9f   Henny Purwadi              07/07/2024 20:59     Add files via upload
+fb27ce049   Henny Purwadi              01/07/2024 18:48     Project Report_Task 2
+5bbf96019   Nareshwar Raju Vaneshwar   29/06/2024 20:50     Merge branch 'feature/assignment-1-naresh'
+2fb4a51c9   Nareshwar Raju Vaneshwar   29/06/2024 20:49     removed unnecessary files
+c2e00e47f   Henny Purwadi              30/06/2024 02:27     Delete assignment2_notebook.ipynb
+2576a7847   Nareshwar Raju Vaneshwar   29/06/2024 20:21     Merge pull request #3 from nareshwar/feature/assignment-1-naresh
+08218d731   Nareshwar Raju Vaneshwar   29/06/2024 20:20     Merge branch 'main' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
+133f3530b   Nareshwar Raju Vaneshwar   29/06/2024 20:20     Added graphs to assignment 1 doc
+5e673b34b   Henny Purwadi              30/06/2024 02:19     Add files via upload
+207f13934   Nareshwar Raju Vaneshwar   29/06/2024 19:30     Reverting the old files
+5e177d6a0   Nareshwar Raju Vaneshwar   29/06/2024 19:29     Merge branch 'feature/assignment-1-naresh' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
+bb2c745cd   Henny Purwadi              29/06/2024 20:14     Add files via upload
+e7a7ff418   Henny Purwadi              29/06/2024 20:14     Delete assignment_2 directory
+e17607962   Henny Purwadi              29/06/2024 20:12     Add files via upload
+c0b723ec6   Nareshwar Raju Vaneshwar   29/06/2024 14:01     Create assignment2_notebook.ipynb
+f523722a2   Nareshwar Raju Vaneshwar   29/06/2024 13:36     Initial files on assignment 2
+eb587506a   Nareshwar Raju Vaneshwar   29/06/2024 13:13     Delete assignment_1/assignment_notebook.ipynb
+f287ed424   Nareshwar Raju Vaneshwar   29/06/2024 13:12     Merge pull request #2 from nareshwar/main
+8e5fd7af4   Nareshwar Raju Vaneshwar   29/06/2024 13:12     removed the old one
+520879761   Nareshwar Raju Vaneshwar   29/06/2024 13:10     Merge pull request #1 from nareshwar/feature/assignment-1-naresh
+680617993   Nareshwar Raju Vaneshwar   29/06/2024 13:10     Merge branch 'main' of https://github.com/nareshwar/uhull-module-2 into feature/assignment-1-naresh
+c5b078282   Nareshwar Raju Vaneshwar   29/06/2024 13:04     Added SVM, cleaned code
+81a8a8dae   Nareshwar Raju Vaneshwar   27/06/2024 08:59     Added visualizations
+b1eda944b   Henny Purwadi              26/06/2024 17:25     Add files via upload
+9b5d41c8c   Henny Purwadi              26/06/2024 16:56     Add files via upload
+f4507ee1e   Nareshwar Raju Vaneshwar   23/06/2024 23:52     Hyperparameter tuning
+e968a5283   Nareshwar Raju Vaneshwar   23/06/2024 15:14     renaming of the notebook
+a69ac3eeb   Nareshwar Raju Vaneshwar   23/06/2024 15:14     notebook cleanup
+228bef9e4   Nareshwar Raju Vaneshwar   23/06/2024 14:49     Choosing the classifier with the highest accuracy
+3e95d788c   Nareshwar Raju Vaneshwar   02/06/2024 11:12     Update README.md
+3f3c89466   Nareshwar Raju Vaneshwar   02/06/2024 11:09     Initial commit
